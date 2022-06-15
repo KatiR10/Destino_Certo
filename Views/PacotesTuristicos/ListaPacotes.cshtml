@@ -1,0 +1,49 @@
+@model IEnumerable<PacotesTuristicos>
+@{
+    ViewData["Title"] = "ListaPacotes";
+}
+<div>
+<h2>Lista de Pacotes Turísticos</h2>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Origem</th>
+            <th>Destino</th>
+            <th>Atrativos</th>
+            <th>Saida</th>
+            <th>Retorno</th>
+            <th>Usuario</th>
+            <th>Operações</th>
+        </tr>
+    </thead>
+    @foreach (PacotesTuristicos ptr in Model)
+    {
+        <tr>
+            <td>@ptr.Id</td>
+            <td>@ptr.Nome</td>
+            <td>@ptr.Origem</td>
+            <td>@ptr.Destino</td>
+            <td>@ptr.Atrativos</td>
+            <td>@ptr.Saida.ToShortDateString()</td>
+            <td>@ptr.Retorno.ToShortDateString()</td>
+            <td>@ptr.Usuario</td>
+            <td>
+                <a href="/PacotesTuristicos/RemoverPacotes?Id=@ptr.Id" onclick="return confirm('Deseja remover?');">Remover</a>
+                <a href="/PacotesTuristicos/EditarPacotes?Id=@ptr.Id">Alterar</a>
+            </td>
+        </tr>
+    }
+    <tbody>
+
+
+    </tbody>
+
+
+</table>
+<p>
+    @ViewBag.Mensagem
+</p>

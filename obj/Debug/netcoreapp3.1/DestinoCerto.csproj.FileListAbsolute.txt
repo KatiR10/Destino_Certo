@@ -1,0 +1,132 @@
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.exe
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.deps.json
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.runtimeconfig.json
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.runtimeconfig.dev.json
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.dll
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.pdb
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.Views.dll
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.Views.pdb
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.csprojAssemblyReference.cache
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.AssemblyInfoInputs.cache
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.AssemblyInfo.cs
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.csproj.CoreCompileInputs.cache
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorAssemblyInfo.cache
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorAssemblyInfo.cs
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.TagHelpers.input.cache
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.TagHelpers.output.cache
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorCoreGenerate.cache
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorTargetAssemblyInfo.cache
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorTargetAssemblyInfo.cs
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.Views.pdb
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.csproj.CopyComplete
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\staticwebassets\DestinoCerto.StaticWebAssets.Manifest.cache
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\staticwebassets\DestinoCerto.StaticWebAssets.xml
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.dll
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.pdb
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.genruntimeconfig.cache
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\ListaPacotes.cshtml.g.cs
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaUsuario.cshtml.g.cs
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\CadastroPacotes.cshtml.g.cs
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroUsuario.cshtml.g.cs
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\EditarPacotes.cshtml.g.cs
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditarUsuario.cshtml.g.cs
+C:\Users\Katia\Documents\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.exe
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.deps.json
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.runtimeconfig.json
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.runtimeconfig.dev.json
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.dll
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.pdb
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.Views.dll
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.Views.pdb
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.csprojAssemblyReference.cache
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.AssemblyInfoInputs.cache
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.AssemblyInfo.cs
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.csproj.CoreCompileInputs.cache
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorAssemblyInfo.cache
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorAssemblyInfo.cs
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.TagHelpers.input.cache
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.TagHelpers.output.cache
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorCoreGenerate.cache
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\CadastroPacotes.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\EditarPacotes.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\ListaPacotes.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroUsuario.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditarUsuario.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaUsuario.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorTargetAssemblyInfo.cache
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorTargetAssemblyInfo.cs
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.Views.pdb
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.csproj.CopyComplete
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\staticwebassets\DestinoCerto.StaticWebAssets.Manifest.cache
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\staticwebassets\DestinoCerto.StaticWebAssets.xml
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.dll
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.pdb
+C:\Users\Katia\Documents\Técnico\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.genruntimeconfig.cache
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.exe
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.deps.json
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.runtimeconfig.json
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.runtimeconfig.dev.json
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.dll
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.pdb
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.Views.dll
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\DestinoCerto.Views.pdb
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.csprojAssemblyReference.cache
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.AssemblyInfoInputs.cache
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.AssemblyInfo.cs
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.csproj.CoreCompileInputs.cache
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorAssemblyInfo.cache
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorAssemblyInfo.cs
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.TagHelpers.input.cache
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.TagHelpers.output.cache
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorCoreGenerate.cache
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\CadastroPacotes.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\EditarPacotes.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\ListaPacotes.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroUsuario.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditarUsuario.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaUsuario.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorTargetAssemblyInfo.cache
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.RazorTargetAssemblyInfo.cs
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.Views.pdb
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.csproj.CopyComplete
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\staticwebassets\DestinoCerto.StaticWebAssets.Manifest.cache
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\staticwebassets\DestinoCerto.StaticWebAssets.xml
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.dll
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.pdb
+C:\Users\Katia\Desktop\projetosgit\Ativ 2 -UC04\Ativ 2 -UC04\DestinoCerto\obj\Debug\netcoreapp3.1\DestinoCerto.genruntimeconfig.cache
